@@ -68,7 +68,7 @@ class SignUp extends StatelessWidget {
               height: 20,
             ),
             ButtonWidget(
-              title: "Sign In",
+              title: "Sign Up",
               hasBorder: true,
             ),
             SizedBox(height: 10),
